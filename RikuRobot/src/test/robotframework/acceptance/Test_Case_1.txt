@@ -1,0 +1,8 @@
+*** Settings ***
+Documentation  A resource file containing the application specific keywords
+Library		Selenium2Library
+
+*** Test Cases ***
+Check out RikuFrameWork Test Result
+	Open Browser  https://www.google.com  googlechrome
+	Close Browser
