@@ -7,7 +7,7 @@ Documentation     A resource file with reusable keywords and variables.
 Library           Selenium2Library
 
 *** Variables ***
-${SERVER}         localhost:8091/job/RikurobotFrameWorkProject/ws/RikuRobot/
+${SERVER}         localhost:8091/job/RikurobotFrameWorkProject/ws/RikuRobot/src/main/webapp
 ${BROWSER}        googlechrome
 ${DELAY}          0
 ${VALID USER}     demo
