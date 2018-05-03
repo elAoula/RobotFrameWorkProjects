@@ -1,0 +1,8 @@
+*** Settings ***
+Documentation  A resource file containing the application specific keywords
+Library		Selenium2Library
+
+*** Test Cases ***
+Open Yahoo page
+	Open Browser  https://www.yahoo.com  googlechrome
+	Close Browser
