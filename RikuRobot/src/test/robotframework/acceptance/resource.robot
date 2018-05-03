@@ -3,11 +3,11 @@ Documentation     A resource file with reusable keywords and variables.
 ...
 ...               The system specific keywords created here form our own
 ...               domain specific language. They utilize keywords provided
-...               by the imported Selenium2Library.
+...               by the imported Selenium2Library. localhost:8080/RikuRobot. Jenkins ocalhost:8091/job/RikurobotFrameWorkProject/ws/RikuRobot/
 Library           Selenium2Library
 
 *** Variables ***
-${SERVER}         localhost:7272
+${SERVER}         localhost:8091/job/RikurobotFrameWorkProject/ws/RikuRobot/
 ${BROWSER}        googlechrome
 ${DELAY}          0
 ${VALID USER}     demo
