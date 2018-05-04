@@ -42,10 +42,14 @@
 				<groupId>org.robotframework</groupId>
 				<artifactId>robotframework-maven-plugin</artifactId>
 				<version>1.4.7</version>
+				<configuration>
+					<argumentFile>robotConfig.txt</argumentFile>
+				</configuration>
 				<executions>
 					<execution>
 						<goals>
 							<goal>run</goal>
+
 						</goals>
 					</execution>
 				</executions>
