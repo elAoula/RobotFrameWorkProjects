@@ -6,7 +6,7 @@
 	<groupId>fi.otso.henki.riku.robot</groupId>
 	<artifactId>RikuRobot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>RikuRobot</name>
 	<url>http://maven.apache.org</url>
