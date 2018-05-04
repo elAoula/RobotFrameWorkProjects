@@ -52,7 +52,6 @@
 					<execution>
 						<goals>
 							<goal>run</goal>
-
 						</goals>
 					</execution>
 				</executions>
