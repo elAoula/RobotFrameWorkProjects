@@ -43,7 +43,10 @@
 				<artifactId>robotframework-maven-plugin</artifactId>
 				<version>1.4.7</version>
 				<configuration>
-					<argumentFile>robotConfig.txt</argumentFile>
+					<arguments>
+                            <argument>-l</argument>
+                            <argument>trace</argument>
+                        </arguments>
 				</configuration>
 				<executions>
 					<execution>
