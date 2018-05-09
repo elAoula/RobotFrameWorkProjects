@@ -44,7 +44,6 @@
 				<version>1.4.7</version>
 				<configuration>
 					<arguments>
-                            <argument>-l</argument>
                             <argument>trace</argument>
                         </arguments>
 				</configuration>
