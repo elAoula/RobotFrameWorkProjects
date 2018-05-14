@@ -35,12 +35,13 @@
 			<artifactId>robotframework-selenium2library-java</artifactId>
 			<version>1.4.0.8</version>
 		</dependency>
+		<!--
 		<dependency>
-			<groupId>org.apache.tomcat.maven</groupId> <!-- Tomcat -->
+			<groupId>org.apache.tomcat.maven</groupId>  Tomcat 
 			<artifactId>tomcat8-maven-plugin</artifactId>
 			<version>3.0-r1756463</version>
 		</dependency>
-
+-->
 	</dependencies>
 
 	<build>
