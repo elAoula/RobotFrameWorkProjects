@@ -55,7 +55,7 @@
 					<arguments>
 						<argument>trace</argument>
 					</arguments>
-					<skipTests>true</skipTests> <!-- Lets skip tests for now .. we need to test first that Tomcat start and 
+					<skipTests>false</skipTests> <!-- Lets Not skip tests for now .. we need to test first that Tomcat start and 
 						shutdown automatically -->
 				</configuration>
 				<executions>
